@@ -146,9 +146,7 @@ Com que som només dues persones, la nostra estratègia ha de jugar amb els nost
 
 ### Proposta de valor final
 
-> **Som una empresa propera del Maresme que ofereix suport informàtic ràpid, personal i transparent per a petites empreses.**
-
----
+**"Som una empresa propera del Maresme que ofereix suport informàtic ràpid, personal i transparent per a petites empreses."**
 
 ## 2. Recursos humans necessaris
 
