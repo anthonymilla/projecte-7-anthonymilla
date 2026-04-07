@@ -1,5 +1,5 @@
 En aquest producte haureu d’elaborar la memòria tècnica completa de la proposta de solució per al client FoodLogístic S.A.. Aquesta memòria serà el document principal que permetrà al client entendre, valorar i validar la vostra proposta abans de la seva implementació.
-gay
+
 No es tracta només d’explicar què fareu, sinó de demostrar que sou capaços de demostrar les capacitats del projecte que son:
 
 Aquest document és una evidència clau del projecte, alineada amb la necessitat de documentar tècnicament les solucions i transmetre informació de manera ordenada, tal com exigeix el mòdul de Projecte Intermodular
