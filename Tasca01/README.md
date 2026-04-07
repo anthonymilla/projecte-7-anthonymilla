@@ -36,5 +36,5 @@ Millorar l’organització del model
 
 Document conjunt, penjat al repositori de cada membre del grup amb el desenvolupament de les dues fases. **Imprescindible** que les propostes siguin **raonades** i **justificades.**
 
-[Anar a la Solució](../Tasca01/Memoria.md)      
+[Anar a la Memòria](../Tasca01/Memoria.md)      
 [Anar a la pàgina inicial](../README.md)
