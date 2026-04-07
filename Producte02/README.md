@@ -10,5 +10,4 @@ Un cop heu confirmat els canvis i els heu pujat a GitHub, configureu el desplega
 
 **Cal que tots els membres de l’equip facin aquesta això als seus respectius repositoris.**
 
-
 [Anar a la pàgina inicial](../README.md)
