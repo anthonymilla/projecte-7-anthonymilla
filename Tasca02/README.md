@@ -12,7 +12,7 @@ En aquesta activitat, posarem en pràctica la guia de desplegament que teniu a l
 
 # Punts clau
 
-- Crear un repositori al vostre GitHub personal que caldrà documentar de forma adequada amb un arxiu [README.md](http://README.md)  
+- Crear un repositori al vostre GitHub personal que caldrà documentar de forma adequada amb un arxiu README.md 
 - GitHub Pages requereix una estructura específica, especialment l'ús de la carpeta /docs i el fitxer index.html i la resta d’objectes de la web al seu interior.  
 - Configurar la branca principal (main) perquè sigui la que actualitzi la web cada cop que confirmi un canvi. Per evitar fer actualitzacions contínues, és molt important, que hi treballeu en local, fent els commits corresponents i que **només pugeu els canvis a GitHub,** quan tingueu una nova versió a desplegar.  
 - S’implementa un “Comptador Invisible” amb StatCounter per fer un seguiment de les visites.  
