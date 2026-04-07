@@ -24,10 +24,10 @@ L’activitat es divideix en quatre fases tècniques que s’han d’executar di
 - Accedeix a la consola Print Management.  
 - Configuració del Printer Pooling:
 
--Ves a les propietats de IMP_MAGATZEM_A  
--A la pestanya “Ports”, marca la casella “Enable printer pooling”.  
--Selecciona el port on es troba la segona impressora IMP_MAGATZEM_B.  
--A partir d'aquest moment, ambdues impressores funcionaran sota un mateix nom de xarxa, repartint-se la feina.  
+  - Ves a les propietats de IMP_MAGATZEM_A  
+  - A la pestanya “Ports”, marca la casella “Enable printer pooling”.  
+  - Selecciona el port on es troba la segona impressora IMP_MAGATZEM_B.  
+  - A partir d'aquest moment, ambdues impressores funcionaran sota un mateix nom de xarxa, repartint-se la feina.  
 
 **Nota tècnica:** a la IMP_MAGATZEM_A han de quedar seleccionats els dos ports virtuals.
 
