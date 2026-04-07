@@ -33,7 +33,7 @@ Després d'avaluar les diferents propostes, els integrants de l'equip heu d'entr
 
 Un document amb les reflexions individuals i un breu informe del procés de negociació on es descriu el consens assolit i la justificació de la tria.
 
-# Materials i links de suport
+Materials i links de suport
 
 - [Què és la comunicació assertiva](https://linkiafp.es/ca/blog/consells-aconseguir-comunicacio-assertiva-empresa/)  
 - https://github.com/SMX2n/Projecte7-GitHubPages
