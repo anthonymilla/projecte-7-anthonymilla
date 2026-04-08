@@ -60,6 +60,6 @@ Heu de produir dos vídeos amb les següents especificacions:
 # Materials i links de suport
 
 - Apunts i recursos disponibles al Moodle del mòdul de Seguretat Informàtica.
-- Agència Espanyola de Protecció de Dades [(web)](https://www.aepd.es/)
+- Agència Espanyola de Protecció de Dades ([web](https://www.aepd.es/))
 
 [Anar a la pàgina inicial](../README.md)
