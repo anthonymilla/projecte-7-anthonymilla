@@ -48,8 +48,7 @@ L'empresa no vol que els mossos de magatzem hagin d'instal·lar manualment la im
 
 # Material de suport
 
-0224 SOX. Material UD8: AA3 [Moodle de l’assignatura]  
-
-[Guia Tècnica](https://github.com/cfugarolas/activitats/blob/main/activitat3/pdf24.md): Instal·lació i configuració PDF24.
+- 0224 SOX. Material UD8: AA3 [Moodle de l’assignatura]
+- [Guia Tècnica](https://github.com/cfugarolas/activitats/blob/main/activitat3/pdf24.md): Instal·lació i configuració PDF24.
 
 [Anar a la pàgina inicial](../README.md)
