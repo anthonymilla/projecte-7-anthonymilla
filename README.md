@@ -85,6 +85,7 @@ Bona sort! 🚀
 - [Tasca9](/Tasca09)
 - [Tasca10](/Tasca10)
 - [Tasca11](/Tasca11)
+- [Tasca12](/Tasca12)
 - [Producte1](/Producte01)
 - [Producte2](/Producte02)
 - [Producte3](/Producte03)
