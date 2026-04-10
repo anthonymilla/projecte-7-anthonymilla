@@ -50,7 +50,7 @@ Organigrama d’una microempresa de serveis informàtics (Digitalnet Serveis Inf
 
 ### Codi
 
-```plantuml
+```
 @startuml
 ' Organigrama empresa informática tipo (microempresa - Digitalnet Serveis Informàtics)
 
