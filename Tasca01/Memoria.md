@@ -128,7 +128,7 @@ Com que som només dues persones, la nostra estratègia ha de jugar amb els nost
 - No competim amb grans consultores.
 - Ens centrem en negocis petits: botigues, restaurants, oficines i autònoms.
 - **Valor afegit:** solucions adaptades i assequibles.
-- 
+ 
 ### 2) Proximitat i tracte directe
 - Les empreses petites del Maresme valoren parlar sempre amb la mateixa persona.
 - No hi ha bots, ni derivacions a altres departaments.
