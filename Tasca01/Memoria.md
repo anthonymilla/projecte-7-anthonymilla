@@ -38,7 +38,7 @@ Necessiten una renovació a fons de la seva infraestructura tecnològica i per a
 
 - https://pyming.com/ca_ES
 
-Totes tres són **microempreses (1–9 treballadors)**, típiques del sector informàtic local.
+Totes tres són **microempreses (1-9 treballadors)**, típiques del sector informàtic local.
 
 ---
 
@@ -179,7 +179,7 @@ Allibera el tècnic principal de tasques repetitives i assegura una bona gestió
 
 **Sí, per començar, sempre que:**
 - S’organitzin bé les tasques
-- No se superin els 10–15 clients de manteniment
+- No se superin els 10-15 clients de manteniment
 - Es disposi d’eines bàsiques (ticketing, control remot i còpies)
 
 ### Quan caldrà ampliar l’equip?
