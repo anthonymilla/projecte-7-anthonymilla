@@ -194,7 +194,7 @@ Allibera el tècnic principal de tasques repetitives i assegura una bona gestió
 
 ### Conclusió
 
-L’estructura i estratègia definides permeten oferir un servei professional, eficient i adaptat al volum d’una microempresa, assegurant qualitat des del primer dia i possibilitat de creixement sostenible.
+L’estructura i estratègia definides permeten oferir un servei professional, eficient i adaptat al volum d’una empresa, assegurant qualitat des del primer dia i possibilitat de creixement sostenible.
 
 
 
