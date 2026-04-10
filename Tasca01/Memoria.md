@@ -124,26 +124,26 @@ DT --> R
 
 Com que som només dues persones, la nostra estratègia ha de jugar amb els nostres punts forts naturals.
 
-### 1) Proximitat i tracte directe
-- Les empreses petites del Maresme valoren parlar sempre amb la mateixa persona.
-- No hi ha centraletes, ni bots, ni derivacions a altres departaments.
-- Aquests punts ens diferencien de les empreses més grans.
-- **Valor afegit:** confiança i relació humana.
-
-### 2) Resposta ràpida (24 h)
-- Les microempreses locals sovint tenen problemes urgents: TPV, impressora o xarxa.
-- Complir una resposta en 24 h ens posiciona per davant de la competència.
-- **Valor afegit:** seguretat per al client.
-
-### 3) Preus clars i transparents
-- Evitem sorpreses en la factura.
-- Oferim manteniments simples i preus tancats.
-- **Valor afegit:** tranquil·litat i control de costos.
-
-### 4) Especialització en PIMEs
+### 1) Especialització en PIMEs
 - No competim amb grans consultores.
 - Ens centrem en negocis petits: botigues, restaurants, oficines i autònoms.
 - **Valor afegit:** solucions adaptades i assequibles.
+- 
+### 2) Proximitat i tracte directe
+- Les empreses petites del Maresme valoren parlar sempre amb la mateixa persona.
+- No hi ha bots, ni derivacions a altres departaments.
+- Aquests punts ens diferencien de les empreses més grans.
+- **Valor afegit:** confiança i relació humana.
+
+### 3) Resposta ràpida (24 h)
+- Les empreses locals sovint tenen problemes urgents: TPV, impressora o xarxa.
+- Complir una resposta en 24 h ens posiciona per davant de la competència.
+- **Valor afegit:** seguretat per al client.
+
+### 4) Preus clars i transparents
+- Evitem sorpreses en la factura.
+- Oferim manteniments simples i preus tancats.
+- **Valor afegit:** tranquil·litat i control de costos.
 
 ### Proposta de valor final
 
