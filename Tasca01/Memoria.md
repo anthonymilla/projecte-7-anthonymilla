@@ -46,7 +46,7 @@ Totes tres són **microempreses (1-9 treballadors)**, típiques del sector infor
 
 Organigrama d’una microempresa de serveis informàtics (Digitalnet Serveis Informàtics). Fet amb PlantUML.
 
-![](img/1.png)
+![Organigrama](img/1.png)
 
 ### Codi
 
