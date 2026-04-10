@@ -76,6 +76,7 @@ rectangle "Xarxes" as R
 DT --> S
 DT --> H
 DT --> R
+
 @enduml
 ```
 
@@ -126,7 +127,7 @@ Com que som només dues persones, la nostra estratègia ha de jugar amb els nost
 ### 1) Proximitat i tracte directe
 - Les empreses petites del Maresme valoren parlar sempre amb la mateixa persona.
 - No hi ha centraletes, ni bots, ni derivacions a altres departaments.
-- Ens diferencia de les empreses més grans.
+- Aquests punts ens diferencien de les empreses més grans.
 - **Valor afegit:** confiança i relació humana.
 
 ### 2) Resposta ràpida (24 h)
