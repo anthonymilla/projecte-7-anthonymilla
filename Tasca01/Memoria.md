@@ -196,7 +196,5 @@ Allibera el tècnic principal de tasques repetitives i assegura una bona gestió
 
 L’estructura i estratègia definides permeten oferir un servei professional, eficient i adaptat al volum d’una empresa, assegurant qualitat des del primer dia i possibilitat de creixement sostenible.
 
-
-
 [Anar a l'enunciat](../Tasca01/README.md)      
 [Anar a la pàgina inicial](../README.md)
