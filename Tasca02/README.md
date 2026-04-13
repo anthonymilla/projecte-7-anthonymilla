@@ -28,4 +28,5 @@ Al repositori del projecte crear la carpeta T02 a dins incloure un README.md amb
 
 Es tracta d’una activitat **individual**, tot i que posteriorment, haureu de triar una solució conjunta.
 
+[Anar a la Memòria](../Tasca02/Solucio.md)
 [Anar a la pàgina inicial](../README.md)
