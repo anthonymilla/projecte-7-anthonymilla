@@ -29,7 +29,7 @@ Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 - **Nombre de treballadors:** 35
 - **Facturació darrer any:** 25 milions d’euros.
 
-## Instruccions (per eliminar abans de lliurar el projecte)
+## Instruccions
 
 Un cop teniu la vostra còpia d'aquest repositori, heu de seguir els passos següents:
 
