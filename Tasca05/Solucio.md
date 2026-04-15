@@ -2,9 +2,9 @@
 
 ## Enllaços a la Tasca 1: El Guió i la Recerca
 
-[Enllaç al guió i la recerca-Vídeo 1](https://drive.google.com/file/d/1XMBjyxT4z2mKlRWF_YuEj1OcLLP0GYHl/view?usp=drive_link)
+[Enllaç al guió i la recerca-Vídeo 1](https://docs.google.com/document/d/1H6b-L1nIOUEibUV_wtOcTx_Lsh4nAOV1p1N0bO-4HQM/edit?usp=drive_link)
 
-[Enllaç al guió i la recerca-Vídeo 2](https://drive.google.com/file/d/1Z_tP_rX8Bhho0fF3nsnUgcZbXS2qc1dM/view?usp=drive_link)
+[Enllaç al guió i la recerca-Vídeo 2](https://docs.google.com/document/d/1edP-3FN5wwiXrnIvZ-fVHJ-_hXThOaQIyHDisaPD2jo/edit?usp=drive_link)
 
 ## Enllaços a les presentacions
 
