@@ -62,4 +62,5 @@ Heu de produir dos vídeos amb les següents especificacions:
 - Apunts i recursos disponibles al Moodle del mòdul de Seguretat Informàtica.
 - Agència Espanyola de Protecció de Dades ([web](https://www.aepd.es/))
 
+[Anar a la Solució](../Tasca05/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
