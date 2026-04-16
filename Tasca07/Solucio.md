@@ -98,7 +98,7 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 
 ### Justificació
 
-Microsoft 365 és la millor opció per FoodLogistic perquè ofereix:
+Microsoft 365 és la millor opció per FoodLogístic perquè ofereix:
 
 ### Seguretat
 - Autenticació multifactor (MFA)  
