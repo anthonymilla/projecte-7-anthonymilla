@@ -4,8 +4,7 @@ Proposta de Migració al Correu Corporatiu al Nuvol - FoodLogistic
 ## 1. Introducció
 
 FoodLogistic, amb 35 treballadors doncs utilitza un servei de correu antic, amb problemes
-de seguretat i sense eines modernes de col·laboració.
-
+de seguretat i sense eines modernes de col·laboració.    
 Aleshores l'objectiu és migrar a una plataforma de correu corporatiu moderna, segura i amb
 eines integrades de productivitat.
 
