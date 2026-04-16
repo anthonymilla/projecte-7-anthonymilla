@@ -45,10 +45,10 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 
 | Servei                         | Preu per usuari/mes | Emmagatzematge                 | Seguretat                 | Eines col·laboratives                  |
 |-------------------------------|----------------------|--------------------------------|---------------------------|-----------------------------------------|
-| Microsoft 365 Empresa Básico  | 5,20 €               | 50 GB correu + 1 TB OneDrive   | MFA, antispam, xifrat     | Teams, SharePoint, Office Online        |
-| Google Workspace Starter      | 6,80 €               | 30 GB totals                    | MFA, antispam             | Meet, Drive, Docs, Chat                 |
-| Zoho Workplace Standard       | 3 €                  | 30 GB correu + 10 GB Drive      | MFA                       | Cliq, Meeting, Docs                     |
-| Lark Suite Enterprise         | 12 €                 | 15 TB                           | MFA, control d'accés      | Xat, videotrucades, Docs, Drive         |
+| **Microsoft 365 Empresa Básico**  | 5,20 €               | 50 GB correu + 1 TB OneDrive   | MFA, antispam, xifrat     | Teams, SharePoint, Office Online        |
+| **Google Workspace Starter**      | 6,80 €               | 30 GB totals                    | MFA, antispam             | Meet, Drive, Docs, Chat                 |
+| **Zoho Workplace Standard**       | 3 €                  | 30 GB correu + 10 GB Drive      | MFA                       | Cliq, Meeting, Docs                     |
+| **Lark Suite Enterprise**         | 12 €                 | 15 TB                           | MFA, control d'accés      | Xat, videotrucades, Docs, Drive         |
 
 ## 4. Avaluació detallada
 
