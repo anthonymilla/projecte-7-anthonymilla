@@ -25,5 +25,5 @@ Anàlisi d'alternatives: Heu de buscar, a través d'Internet, un mínim de quatr
    b. **Justificació tècnica:** text adreçat als responsables de l’empresa justificant perquè l’alternativa escollida és la més segura i eficient.  
    c. **Pressupost desglossat:** una taula econòmica on es mostri el cost de les llicències de programari indicant clarament els costos recurrents.
 
-[Anar a la Solució](../Tasca02/Solucio.md)
+[Anar a la Solució](../Tasca07/Solucio.md)   
 [Anar a la pàgina inicial](../README.md)
