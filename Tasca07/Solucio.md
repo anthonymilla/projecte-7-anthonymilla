@@ -123,44 +123,45 @@ Microsoft 365 és la millor opció per FoodLogístic perquè ofereix:
 
 ## 6. Pressupost anual per 35 empleats
 
+### Càlcul
+
 - 5,20 € x 35 = 182 € / mes  
 - 182 € x 12 = 2.184 € / any  
 
-| Concepte                                | Quantitat | Preu unitari | Total anual |
+| **Concepte**                                | **Quantitat** | **Preu unitari** | **Total anual** |
 |-----------------------------------------|-----------|--------------|-------------|
-| Llicències Microsoft 365 Empresa Básico | 35        | 5,20 €/mes   | 2.184 €     |
-| Costos recurrents anuals                | -         | -            | 2.184 €     |
+| Llicències Microsoft 365 Empresa Básico | 35        | 5,20 €/mes   | **2.184 €**     |
+| **Costos recurrents anuals**                | -         | -            | **2.184 €**     |
 
 ## 7. Migració de correu
 
-Eines recomanades:
+### Eines recomanades:
 
-· Microsoft Migration Tool (oficial i gratuïta)  
+- **Microsoft Migration Tool** (oficial i gratuïta)  
+
 https://learn.microsoft.com/es-es/exchange/mailbox-migration  
 
-· IMAP Migration (per servidors antics)
+- **IMAP Migration** (per servidors antics)
 
-· Eines de tercers:  
-BitTitan MigrationWiz -> https://www.bittitan.com/  
+- **Eines de tercers:**     
+BitTitan MigrationWiz -> https://www.bittitan.com/     
 Cloudiway -> https://cloudiway.com/
 
 Permeten migrar:
-· Correus  
-· Contactes  
-· Calendaris  
-· Arxius adjunts  
-(Sense interrupció del servei.)
+- Correus  
+- Contactes  
+- Calendaris  
+- Arxius adjunts (Sense interrupció del servei.)
 
 ## 8. Conclusió
 
-La millor opció per FoodLogistic és Microsoft 365 Empresa Básico, ja que combina:
+La millor opció per FoodLogistic és **Microsoft 365 Empresa Básico**, ja que combina:
 
-· Seguretat avançada  
-· Eines completes de col·laboració  
-· Gran capacitat d'emmagatzematge  
-· Preu competitiu  
-· Fiabilitat empresarial
-
+- Seguretat avançada  
+- Eines completes de col·laboració  
+- Gran capacitat d'emmagatzematge  
+- Preu competitiu  
+- Fiabilitat empresarial
 
 
 [Anar a l'enunciat](../Tasca07/README.md)      
