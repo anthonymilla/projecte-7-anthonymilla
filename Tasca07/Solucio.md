@@ -13,29 +13,33 @@ eines integrades de productivitat.
 Per això s'ha estudiat quatre solucions líders al mercat:
 
 ### 1. Microsoft 365 Empresa Básico
+
 https://www.microsoft.com/es-es/microsoft-365/business
 
-Aquest inclou Outlook, OneDrive, Teams, Word, Excel i eines de seguretat avançada.
-Preu exacte: 5,20 € / usuari / mes
+Aquest inclou Outlook, OneDrive, Teams, Word, Excel i eines de seguretat avançada.   
+**Preu exacte: 5,20 € / usuari / mes**
 
 ### 2. Google Workspace Business Starter
+
 https://workspace.google.com/intl/es/
 
-Aquest inclou Gmail, Drive, Meet, Docs i col·laboració en temps real.
-Preu exacte: 6,80 € / usuari / mes
+Aquest inclou Gmail, Drive, Meet, Docs i col·laboració en temps real.   
+**Preu exacte: 6,80 € / usuari / mes**
 
 ### 3. Zoho Workplace Standard
+
 https://www.zoho.com/workplace/
 
-Aquesta és una opció economica amb correu, ofimàtica i eines de col·laboració.
-Preu exacte: 2,70 € / usuari / mes (pagament anual) i 3,60 € / usuari / mes (pagament
-mensual)
+Aquesta és una opció economica amb correu, ofimàtica i eines de col·laboració.   
+**Preu exacte: 2,70 € / usuari / mes (pagament anual) i 3,60 € / usuari / mes (pagament
+mensual)**
 
 ### 4. Lark Suite
+
 https://www.larksuite.com/
 
-Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
-Preu exacte: 12 € / usuari / mes
+Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.     
+**Preu exacte: 12 € / usuari / mes**
 
 ## 3. Comparativa de caracteristiques (PIMES)
 
