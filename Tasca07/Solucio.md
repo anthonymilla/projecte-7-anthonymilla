@@ -76,7 +76,7 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 ### Zoho Workplace
 
 #### Què porta?
-- Molt economic  
+- Molt econòmic  
 - Eines completes  
 
 #### Què no porta?
@@ -101,30 +101,30 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 Microsoft 365 és la millor opció per FoodLogistic perquè ofereix:
 
 ### Seguretat
-· Autenticació multifactor (MFA)  
-· Antispam i antimalware avançat  
-· Compliment GDPR  
-· Xifratge de dades en transit i en repòs  
+- Autenticació multifactor (MFA)  
+- Antispam i antimalware avançat  
+- Compliment GDPR  
+- Xifratge de dades en transit i en repòs  
 
 ### Emmagatzematge
-· 50 GB per bústia  
-· 1 TB de OneDrive per usuari  
-· Ideal per compartir documents interns  
+- 50 GB per bústia  
+- 1 TB de OneDrive per usuari  
+- Ideal per compartir documents interns  
 
 ### Col·laboració
-· Teams per videotrucades i xat  
-· SharePoint per intranet  
-· Office Online per editar documents en temps real  
+- Teams per videotrucades i xat  
+- SharePoint per intranet  
+- Office Online per editar documents en temps real  
 
 ### Fiabilitat i suport
-· Plataforma líder mundial  
-· Integració amb Windows  
-· Disponibilitat del 99,9%  
+- Plataforma líder mundial  
+- Integració amb Windows  
+- Disponibilitat del 99,9%  
 
 ## 6. Pressupost anual per 35 empleats
 
-· 5,20 € x 35 = 182 € / mes  
-· 182 € x 12 = 2.184 € / any  
+- 5,20 € x 35 = 182 € / mes  
+- 182 € x 12 = 2.184 € / any  
 
 | Concepte                                | Quantitat | Preu unitari | Total anual |
 |-----------------------------------------|-----------|--------------|-------------|
