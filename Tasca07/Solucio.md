@@ -43,7 +43,7 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 
 ## 3. Comparativa de caracteristiques (PIMES)
 
-| Servei                         | Preu per usuari/mes | Emmagatzematge                 | Seguretat                 | Eines col·laboratives                  |
+| **Servei**                         | **Preu per usuari/mes** | **Emmagatzematge**                 | **Seguretat**                 | **Eines col·laboratives**                  |
 |-------------------------------|----------------------|--------------------------------|---------------------------|-----------------------------------------|
 | **Microsoft 365 Empresa Básico**  | 5,20 €               | 50 GB correu + 1 TB OneDrive   | MFA, antispam, xifrat     | Teams, SharePoint, Office Online        |
 | **Google Workspace Starter**      | 6,80 €               | 30 GB totals                    | MFA, antispam             | Meet, Drive, Docs, Chat                 |
@@ -55,44 +55,44 @@ Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.
 ### Microsoft 365
 
 #### Què porta?
-· Correu molt robust (Outlook)  
-· 1 TB per usuari  
-· Teams per reunions i xat  
-· Seguretat empresarial  
+- Correu molt robust (Outlook)  
+- 1 TB per usuari  
+- Teams per reunions i xat  
+- Seguretat empresarial  
 
 #### Què no porta?
-· Llicències més complexes  
+- Llicències més complexes  
 
 ### Google Workspace
 
 #### Què porta ?
-· Gmail molt fiable  
-· Col·laboració en temps real  
-· Interfície intuïtiva  
+- Gmail molt fiable  
+- Col·laboració en temps real  
+- Interfície intuïtiva  
 
 #### Què no porta?
-· Només 30 GB al pla basic  
+- Només 30 GB al pla basic  
 
 ### Zoho Workplace
 
 #### Què porta?
-· Molt economic  
-· Eines completes  
+- Molt economic  
+- Eines completes  
 
 #### Què no porta?
-· Menys popular i menys integracions  
+- Menys popular i menys integracions  
 
 ### Lark Suite
 
 #### Què porta?
-· Eines modernes i integrades  
-· Videotrucades de fins a 500 participants  
-· 15 TB d'emmagatzematge  
-· Fluxos de treball automatitzats  
+- Eines modernes i integrades  
+- Videotrucades de fins a 500 participants  
+- 15 TB d'emmagatzematge  
+- Fluxos de treball automatitzats  
 
 #### Què no porta?
-· Preu elevat  
-· Poc adoptat a Europa  
+- Preu elevat  
+- Poc adoptat a Europa  
 
 ## 5. Opció recomanada: Microsoft 365 Empresa Básico
 
