@@ -1,8 +1,8 @@
 # T02: Creant la proposta de pàgina corporativa
 
-## Web FoodLogístic - Repositori:
+## Web Corporativa de FoodLogístic - Repositori:
 
-[Web Corporativa de FoodLogistic](https://github.com/anthonymilla/Web-corporativa-FoodLogistic?tab=readme-ov-file)
+[Web Corporativa de FoodLogistic - Repositori](https://github.com/anthonymilla/Web-corporativa-FoodLogistic?tab=readme-ov-file)
 
 ## Url de la web
 
