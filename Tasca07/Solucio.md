@@ -140,7 +140,7 @@ Microsoft 365 és la millor opció per FoodLogístic perquè ofereix:
 
 - **Microsoft Migration Tool** (oficial i gratuïta)  
 
-https://learn.microsoft.com/es-es/exchange/mailbox-migration  
+https://learn.microsoft.com/es-es/microsoft-365/enterprise/cross-tenant-mailbox-migration?view=o365-worldwide
 
 - **IMAP Migration** (per servidors antics)
 
