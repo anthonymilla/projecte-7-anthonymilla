@@ -164,9 +164,9 @@ La millor opció per FoodLogistic és **Microsoft 365 Empresa Básico**, ja que 
 - Preu competitiu  
 - Fiabilitat empresarial
 
-**Enllaç a presentació:**
+**Enllaç a la presentació:**
 
-[Enllaç a presentació](https://canva.link/ef6zl2maevoffuy)
+[Enllaç a la presentació](https://canva.link/ef6zl2maevoffuy)
 
 [Anar a l'enunciat](../Tasca07/README.md)      
 [Anar a la pàgina inicial](../README.md)
