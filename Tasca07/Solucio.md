@@ -152,7 +152,7 @@ Permeten migrar:
 - Correus  
 - Contactes  
 - Calendaris  
-- Arxius adjunts (Sense interrupció del servei.)
+- Arxius adjunts (Sense interrupció del servei)
 
 ## 8. Conclusió
 
