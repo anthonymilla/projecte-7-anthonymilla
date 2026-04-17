@@ -14,9 +14,9 @@
 
 ## Enllaços a la Tasca 2: Producció de Vídeos
 
-[Enllaç al Vídeo 1: "Compliment legal en el dia a dia a FoodLogistic" (General)]()
+[Enllaç al Vídeo 1: "Compliment legal en el dia a dia a FoodLogistic" (General)](https://drive.google.com/file/d/1brE0It_nvk2Mn3Dwb6qRnBgsqjxFK1Gr/view?usp=drivesdk)
 
-[Enllaç al Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)]()
+[Enllaç al Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)](https://drive.google.com/file/d/19CZwbQ-xmErgV4kf8dqITPLZkvqA7xBT/view?usp=drivesdk)
 
 [Anar a l'enunciat](../Tasca05/README.md)      
 [Anar a la pàgina inicial](../README.md)
