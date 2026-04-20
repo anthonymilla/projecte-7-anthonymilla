@@ -49,43 +49,43 @@ Link: https://www.larksuite.com/
 
 ### Microsoft 365
 
-Avantatges
+**Avantatges**
 - Correu molt robust (Outlook)
 - 1 TB per usuari
 - Teams per reunions i xat
 - Seguretat empresarial
 
-Inconvenients
+**Inconvenients**
 - Llicències més complexes
 
 ### Google Workspace
 
-Avantatges
+**Avantatges**
 - Gmail molt fiable
 - Col·laboració en temps real
 - Interfície intuïtiva
 
-Inconvenients
+**Inconvenients**
 - Només 30 GB al pla bàsic
 
 ### Zoho Workplace
 
-Avantatges
+**Avantatges**
 - Molt economic
 - Eines completes
 
-Inconvenients
+**Inconvenients**
 - Menys popular i menys integracions
 
 ### Lark Suite
 
-Avantatges
+**Avantatges**
 - Eines modernes i integrades
 - Videotrucades de fins a 500 participants
 - 15 TB d'emmagatzematge
 - Fluxos de treball automatitzats
 
-Inconvenients
+**Inconvenients**
 - Preu elevat
 - Poc adoptat a Europa
 
