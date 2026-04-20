@@ -33,7 +33,7 @@ Link: https://www.zoho.com/workplace/
 ### 1.4 Lark Suite
 
 Aquesta és un suite moderna amb xat, videotrucades, documents i Drive integrat.    
-Preu exacte: 12 € / usuari / mes    
+Preu exacte: 10,19 € / usuari / mes    
 Link: https://www.larksuite.com/
 
 ## 2. Comparativa de características (PIMES)
@@ -42,8 +42,8 @@ Link: https://www.larksuite.com/
 |--------|----------------------|----------------|-----------|----------------------|
 | **Microsoft 365 Empresa Básico** | 5,20 € | 50 GB correu + 1 TB OneDrive | MFA, antispam, xifrat | Teams, SharePoint, Office Online |
 | **Google Workspace Starter** | 6,80 € | 30 GB totals | MFA, antispam | Meet, Drive, Docs, Chat |
-| **Zoho Workplace Standard** | 3 € | 30 GB correu + 10 GB Drive | MFA | Cliq, Meeting, Docs |
-| **Lark Suite Enterprise** | 12 € | 15 TB | MFA, control d'accés | Xat, videotrucades, Docs, Drive |
+| **Zoho Workplace Standard** | 3,00 € | 30 GB correu + 10 GB Drive | MFA | Cliq, Meeting, Docs |
+| **Lark Suite Enterprise** | 10,19 € | 15 TB | MFA, control d'accés | Xat, videotrucades, Docs, Drive |
 
 ## 2.1 Avaluació detallada de la comparativa
 
@@ -125,7 +125,7 @@ Microsoft 365 és la millor opció per FoodLogistic perquè te:
 
 | **Concepte** | **Quantitat** | **Preu unitari** | **Total anual** |
 |----------|-----------|--------------|-------------|
-| Llicències Microsoft 365 Empresa Básico | 35 | 5,20 €/mes | **2.184 €** |
+| Llicències Microsoft 365 Empresa Básico | 35 usuaris | 5,20 €/mes | **2.184 €** |
 | Costos recurrents anuals | - | - | **2.184 €** |
 
 
@@ -186,9 +186,9 @@ col·laboració bàsiques. És adequada per empreses amb pressupost ajustat.
 
 | **Servei** | **Preu €/usuari/mes** | **Emmagatzematge** | **Seguretat** | **Eines col·laboratives** |
 |--------|--------------------|----------------|-----------|------------------------|
-| Microsoft 365 Empresa Básico | 5,20 € | 50 GB correu + 1 TB OneDrive | MFA, antispam, xifrat | Teams, SharePoint, Office Online |
-| Google Workspace Starter | 6,80 € | 30 GB totals | MFA, antispam | Meet, Drive, Docs |
-| Zoho Workplace Standard | 3,00 € | 30 GB correu + 10 GB Drive | MFA | Cliq, Meeting, Docs |
+| **Microsoft 365 Empresa Básico** | 5,20 € | 50 GB correu + 1 TB OneDrive | MFA, antispam, xifrat | Teams, SharePoint, Office Online |
+| **Google Workspace Starter** | 6,80 € | 30 GB totals | MFA, antispam | Meet, Drive, Docs |
+| **Zoho Workplace Standard** | 3,00 € | 30 GB correu + 10 GB Drive | MFA | Cliq, Meeting, Docs |
 
 ## 2. Justificació tècnica
 
@@ -227,6 +227,8 @@ La millor opció per FoodLogistic és Microsoft 365 Empresa Básico, ja que comb
 - Gran capacitat d'emmagatzematge
 - Preu competitiu
 - Fiabilitat empresarial
+
+**Enllaç a format presentació:** https://canva.link/ef6zl2maevoffuy
 
 [Anar a l'enunciat](../Tasca07/README.md)      
 [Anar a la pàgina inicial](../README.md)
