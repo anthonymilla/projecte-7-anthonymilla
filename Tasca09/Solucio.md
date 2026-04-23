@@ -398,3 +398,6 @@ Anar guardant seguidament el treball que anem fent, per així no perdre res de f
 Configurar correctament la màquina virtual, vigilar de no equivocar-se amb res que, a més, pot ser molt greu i complicar-te la feina.
 
 Anar vigilant amb eines com **OneCompiler** o **Canvas de Gemini** per veure com va quedant la web amb el codi corresponent, això ho podem fer abans de publicar la pàgina corporativa perquè aixis sabem com va quedant la web aixis no agafem el risc directament de publicar la web malament (amb dades incorrectes per exemple, que no estigui ben feta, estructurada…) o simplement ens fixem que hem posat totes les dades i que tot estigui complet.
+
+[Anar a l'enunciat](../Tasca09/README.md)      
+[Anar a la pàgina inicial](../README.md)
