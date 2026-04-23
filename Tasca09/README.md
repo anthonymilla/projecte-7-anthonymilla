@@ -209,4 +209,5 @@ Es valorarà:
 - Qualitat del README (professional, estructurat, justificat)  
 - Ús crític de la IA (no superficial)
 
+[Anar a la Solució](../Tasca09/Solucio.md)   
 [Anar a la pàgina inicial](../README.md)
