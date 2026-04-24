@@ -14,7 +14,7 @@ L'objectiu és implementar una infraestructura de fitxers segura, organitzada i 
 
 Domini:
 
-
+![Organigrama](Img/Imatge01.png)
 
 1. Preparació i Seguretat de Grups (AD)
 
