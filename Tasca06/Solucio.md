@@ -8,3 +8,5 @@
 
 [Web Corporativa de FoodLogistic - Repositori](https://github.com/anthonymilla/Web-corporativa-FoodLogistic?tab=readme-ov-file)
 
+[Anar a l'enunciat](../Tasca06/README.md)      
+[Anar a la pàgina inicial](../README.md)
