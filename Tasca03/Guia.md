@@ -16,15 +16,14 @@ Domini:
 
 ![Organigrama](Img/Imatge01.png)
 
-1. Preparació i Seguretat de Grups (AD)
+| 1. Preparació i Seguretat de Grups (AD) |
+|----------------------------------------|
 
-Abans de crear el servidor de fitxers, cal preparar el terreny a l'Active Directory. Sobre un domini (foodlogistic.test) on se us recomana crear una estructura de OUs coherent, que caldrà justificar per les necessitats que desenvolupareu, creeu els següents grups de seguretat:
+**Abans de crear el servidor de fitxers, cal preparar el terreny a l'Active Directory. Sobre un domini (foodlogistic.test) on se us recomana crear una estructura de OUs coherent, que caldrà justificar per les necessitats que desenvolupareu, creeu els següents grups de seguretat:**
 
-Administracio: Gestió de factures i albarans.
-
-Transport: Xofers i caps de flota.
-
-Direccio: Gerència.
+- **Administracio: Gestió de factures i albarans.**
+- **Transport: Xofers i caps de flota.**
+- **Direccio: Gerència.**
 
 Preparem el terreny a l'Active Directory, sobre un domini; foodlogistic.test, on crearem una estructura de OUs (Usuaris i Grups), ja que així no serà lliós i podrem dividir correctament aquests per les necessitats que desenvoluparem, creem els següents grups de seguretat corresponentment:
 
