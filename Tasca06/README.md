@@ -33,4 +33,5 @@ Al repositori del projecte, a dins el README.md que descriu aquesta activitat, i
 - Moodle 0226. Seguretat Informàtica. RA5  
 - Document amb les dades de FoodLogistic S.A.
 
+[Anar a la Solució](../Tasca06/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
