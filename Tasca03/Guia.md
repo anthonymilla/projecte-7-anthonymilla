@@ -44,35 +44,37 @@ Creem la carpeta; Public (Mètode: Explorador d'arxius), la compartim per a toth
 
 ![Creem la carpeta; Public (Mètode: Explorador d'arxius), la compartim per a tothom i la configurem: Permisos SMB de "Lectura" i permisos NTFS de "Modificació".](Img/Imatge03.png)
 
+![Creem la carpeta; Public (Mètode: Explorador d'arxius), la compartim per a tothom i la configurem: Permisos SMB de "Lectura" i permisos NTFS de "Modificació".](Img/Imatge04.png)
+
 ### B. Carpeta Operacions (Mètode: Server Manager - FSSM):
 
 - **Instal·leu el rol File and Storage Services si no hi és.**
 
 Ja el tenim instal·lat:
 
-![Ja el tenim instal·lat:](Img/Imatge04.png)
+![Ja el tenim instal·lat:](Img/Imatge05.png)
 
 - **Creeu el recurs compartit.**
 
 Creem el recurs compartit (Click dret i New Share…):
 
-![Creem el recurs compartit (Click dret i New Share…):](Img/Imatge05.png)
+![Creem el recurs compartit (Click dret i New Share…):](Img/Imatge06.png)
 
 - **Fer que només es mostri pels usuaris amb accés (Acces-Based Enumeration).**
 
 Seguidament en Configure share setttings (Configura els setttings de compartició), en Other Settings (Altres paràmetres) marquem que: només es mostri pels usuaris amb accés (Enable acces-based enumeration).
 
-![Seguidament en Configure share setttings (Configura els setttings de compartició), en Other Settings (Altres paràmetres) marquem que: només es mostri pels usuaris amb accés (Enable acces-based enumeration).](Img/Imatge06.png)
+![Seguidament en Configure share setttings (Configura els setttings de compartició), en Other Settings (Altres paràmetres) marquem que: només es mostri pels usuaris amb accés (Enable acces-based enumeration).](Img/Imatge07.png)
 
 Confirm selections (Confirmem les seleccions):
 
-![Confirm selections (Confirmem les seleccions):](Img/Imatge07.png)
+![Confirm selections (Confirmem les seleccions):](Img/Imatge08.png)
 
 - **Restricció: Només el grup Transport hi pot accedir.**
 
 En restricció que: Només el grup Transport hi pugui accedir:
 
-![En restricció que: Només el grup Transport hi pugui accedir:](Img/Imatge08.png)
+![En restricció que: Només el grup Transport hi pugui accedir:](Img/Imatge09.png)
 
 ### C. Carpeta Confidencial (Mètode: PowerShell bàsic):
 
@@ -91,16 +93,16 @@ Creem la carpeta Direccio i restricció: només hi pot accedir el grup Direccio.
 Utilitzem el cmdlet New-SmbShare per compartir-la i habilitem per PowerShell l’Access-Based Enumeration (Enumeració Basada en Accés).
 
 ![Creem la carpeta Direccio i restricció: només hi pot accedir el grup Direccio.      
-Utilitzem el cmdlet New-SmbShare per compartir-la i habilitem per PowerShell l’Access-Based Enumeration (Enumeració Basada en Accés).](Img/Imatge09.png)
+Utilitzem el cmdlet New-SmbShare per compartir-la i habilitem per PowerShell l’Access-Based Enumeration (Enumeració Basada en Accés).](Img/Imatge10.png)
 
 ![Creem la carpeta Direccio i restricció: només hi pot accedir el grup Direccio.      
-Utilitzem el cmdlet New-SmbShare per compartir-la i habilitem per PowerShell l’Access-Based Enumeration (Enumeració Basada en Accés).](Img/Imatge10.png)
+Utilitzem el cmdlet New-SmbShare per compartir-la i habilitem per PowerShell l’Access-Based Enumeration (Enumeració Basada en Accés).](Img/Imatge11.png)
 
 - **Configureu una GPO perquè aquesta carpeta aparegui automàticament com a unitat Z: només als usuaris de Direccio.**
 
 Configurem una GPO perquè aquesta carpeta aparegui automàticament com a unitat Z: només als usuaris de Direccio (Anthony Milla en aquest cas). Per això obrim la Default Domain Policy (Política de Domini Predeterminada). Anem a: User Configuration (Configuració d’Usuari), Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Drive Maps (Mapes d’Unitats), clic dret; New (Nou) i Mapped Drive (Unitat Assignada).
 
-![Configurem una GPO perquè aquesta carpeta aparegui automàticament com a unitat Z: només als usuaris de Direccio (Anthony Milla en aquest cas). Per això obrim la Default Domain Policy (Política de Domini Predeterminada). Anem a: User Configuration (Configuració d’Usuari), Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Drive Maps (Mapes d’Unitats), clic dret; New (Nou) i Mapped Drive (Unitat Assignada).](Img/Imatge11.png)
+![Configurem una GPO perquè aquesta carpeta aparegui automàticament com a unitat Z: només als usuaris de Direccio (Anthony Milla en aquest cas). Per això obrim la Default Domain Policy (Política de Domini Predeterminada). Anem a: User Configuration (Configuració d’Usuari), Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Drive Maps (Mapes d’Unitats), clic dret; New (Nou) i Mapped Drive (Unitat Assignada).](Img/Imatge12.png)
 
 Configurem:
 
@@ -116,11 +118,11 @@ Aquesta GPO només s’aplicarà als usuaris del grup Direccio (Anthony Milla en
 -Location (Ubicació): \\\DC17\Direccio
 -Drive Letter (Lletra d’unitat): Use Z (Usar Z)
 -Marquem: Show this drive (Mostrar aquesta unitat)
-Aquesta GPO només s’aplicarà als usuaris del grup Direccio (Anthony Milla en aquest cas).](Img/Imatge12.png)
+Aquesta GPO només s’aplicarà als usuaris del grup Direccio (Anthony Milla en aquest cas).](Img/Imatge13.png)
 
 Ara anem a la Default Domain Policy (Política de Domini Predeterminada), en Computer Configuration (Configuració de l’Equip), en Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Network Shares (Comparticions de Xarxa), clic dret; New (Nou) i Network Share (Recurs Compartit).
 
-![Ara anem a la Default Domain Policy (Política de Domini Predeterminada), en Computer Configuration (Configuració de l’Equip), en Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Network Shares (Comparticions de Xarxa), clic dret; New (Nou) i Network Share (Recurs Compartit).](Img/Imatge13.png)
+![Ara anem a la Default Domain Policy (Política de Domini Predeterminada), en Computer Configuration (Configuració de l’Equip), en Preferences (Preferències), baixem el desplegable; Windows Settings (Configuració de Windows), Network Shares (Comparticions de Xarxa), clic dret; New (Nou) i Network Share (Recurs Compartit).](Img/Imatge14.png)
 
 Configurem:
 
@@ -136,19 +138,19 @@ Això reforça la configuració del recurs compartit.
 -Share name (Nom del recurs compartit): direccio
 -Folder path (Ruta de la carpeta): \\\DC17\Direccio
 -Access‑Based Enumeration (Enumeració Basada en Accés): marquem Enabled (Activat)
-Això reforça la configuració del recurs compartit.](Img/Imatge14.png)
+Això reforça la configuració del recurs compartit.](Img/Imatge15.png)
 
 Intentem accedir a \\\DC17\Direccio amb l'usuari Jhon Justiniano i no deixa accedir ja que no té permisos (no és del grup Direccio).
 
-![Intentem accedir a \\\DC17\Direccio amb l'usuari Jhon Justiniano i no deixa accedir ja que no té permisos (no és del grup Direccio).](Img/Imatge15.png)
+![Intentem accedir a \\\DC17\Direccio amb l'usuari Jhon Justiniano i no deixa accedir ja que no té permisos (no és del grup Direccio).](Img/Imatge16.png)
 
 Ara amb l'usuari Anthony Milla (l'usuari del grup Direccio) l'Unitat Z és visible i accessible.
 
-![Ara amb l'usuari Anthony Milla (l'usuari del grup Direccio) l'Unitat Z és visible i accessible.](Img/Imatge16.png)
+![Ara amb l'usuari Anthony Milla (l'usuari del grup Direccio) l'Unitat Z és visible i accessible.](Img/Imatge17.png)
 
 I podem veure que l'usuari del grup Direccio pot obrir-la.
 
-![I podem veure que l'usuari del grup Direccio pot obrir-la.](Img/Imatge17.png)
+![I podem veure que l'usuari del grup Direccio pot obrir-la.](Img/Imatge18.png)
 
 **Heu de triar entre el mètode C o D, òbviament el mètode D té una valoració més alta.**
 
@@ -163,13 +165,13 @@ I podem veure que l'usuari del grup Direccio pot obrir-la.
 
 Primerament activem les quotes NTFS.
 
-![Primerament activem les quotes NTFS.](Img/Imatge18.png)
+![Primerament activem les quotes NTFS.](Img/Imatge19.png)
 
 - **Establir un límit de 500 MB per defecte per a qualsevol usuari nou.**
 
 Establim un límit de 500 MB per defecte per a qualsevol usuari nou:
 
-![Establim un límit de 500 MB per defecte per a qualsevol usuari nou:](Img/Imatge19.png)
+![Establim un límit de 500 MB per defecte per a qualsevol usuari nou:](Img/Imatge20.png)
 
 ### FSRM (Control per Carpeta):
 
@@ -179,19 +181,19 @@ Establim un límit de 500 MB per defecte per a qualsevol usuari nou:
 
 Instal·lem el rol File Server Resource Manager. A la carpeta Public, apliquem una quota de 200 MB (Hard Quota). Configurem un avís al 90% que enviï un missatge personalitzat que serà: "Compte! FoodLogístic t'informa que estàs a punt d'esgotar l'espai compartit."
 
-![Instal·lem el rol File Server Resource Manager. A la carpeta Public, apliquem una quota de 200 MB (Hard Quota). Configurem un avís al 90% que enviï un missatge personalitzat que serà: "Compte! FoodLogístic t'informa que estàs a punt d'esgotar l'espai compartit."](Img/Imatge20.png)
-
 ![Instal·lem el rol File Server Resource Manager. A la carpeta Public, apliquem una quota de 200 MB (Hard Quota). Configurem un avís al 90% que enviï un missatge personalitzat que serà: "Compte! FoodLogístic t'informa que estàs a punt d'esgotar l'espai compartit."](Img/Imatge21.png)
+
+![Instal·lem el rol File Server Resource Manager. A la carpeta Public, apliquem una quota de 200 MB (Hard Quota). Configurem un avís al 90% que enviï un missatge personalitzat que serà: "Compte! FoodLogístic t'informa que estàs a punt d'esgotar l'espai compartit."](Img/Imatge22.png)
 
 - **Filtrat de Fitxers: A la carpeta Operacions, creeu un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.**
 
 A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.
 
-![A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.](Img/Imatge22.png)
-
 ![A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.](Img/Imatge23.png)
 
 ![A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.](Img/Imatge24.png)
+
+![A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executables (.exe, .msi) i fitxers d'àudio o vídeo.](Img/Imatge25.png)
 
 | 4. Verificació i Auditoria |
 |----------------------------------------|
@@ -202,29 +204,29 @@ A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executable
 
 Usuari Anthony Milla, pot veure la carpeta Direcció:
 
-![Usuari Anthony Milla, pot veure la carpeta Direcció:](Img/Imatge25.png)
+![Usuari Anthony Milla, pot veure la carpeta Direcció:](Img/Imatge26.png)
 
 Usuari Jhon Justiniano, pot veure la carpeta Operacions:
 
-![Usuari Jhon Justiniano, pot veure la carpeta Operacions:](Img/Imatge26.png)
+![Usuari Jhon Justiniano, pot veure la carpeta Operacions:](Img/Imatge27.png)
 
 Usuari Nil Lozano, pot veure la carpeta public:
 
-![Usuari Nil Lozano, pot veure la carpeta public:](Img/Imatge27.png)
+![Usuari Nil Lozano, pot veure la carpeta public:](Img/Imatge28.png)
 
 - **Què passa si intenteu copiar un .exe a Operacions?**
 
 El servidor el bloqueja. FSRM té un file screen actiu sobre C:\Operacions i, tal com es veu al document, quan intentem copiar WinSCP.exe apareix: “Acceso a la carpeta de destino denegado”.
 
-![El servidor el bloqueja. FSRM té un file screen actiu sobre C:\Operacions i, tal com es veu al document, quan intentem copiar WinSCP.exe apareix: “Acceso a la carpeta de destino denegado”.](Img/Imatge28.png)
+![El servidor el bloqueja. FSRM té un file screen actiu sobre C:\Operacions i, tal com es veu al document, quan intentem copiar WinSCP.exe apareix: “Acceso a la carpeta de destino denegado”.](Img/Imatge29.png)
 
 - **Si canvieu l'extensió d'un executable a .txt, el servidor el deixa passar? (Proveu el filtratge actiu).**
 
 També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l’extensió. Al document es veu que, tot i renombrar-lo a .txt, torna a sortir: “Necesita permisos para realizar esta acción”.
 
-![També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l’extensió. Al document es veu que, tot i renombrar-lo a .txt, torna a sortir: “Necesita permisos para realizar esta acción”.](Img/Imatge29.png)
-
 ![També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l’extensió. Al document es veu que, tot i renombrar-lo a .txt, torna a sortir: “Necesita permisos para realizar esta acción”.](Img/Imatge30.png)
+
+![També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l’extensió. Al document es veu que, tot i renombrar-lo a .txt, torna a sortir: “Necesita permisos para realizar esta acción”.](Img/Imatge31.png)
 
 ### Resum de Configuració: Taula amb els noms de carpeta, camins UNC, grups amb accés i mètode de creació usat.
 
