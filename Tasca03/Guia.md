@@ -226,7 +226,7 @@ També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l
 
 ![També el bloqueja. El filtratge és actiu, així que no es deixa enganyar per l’extensió. Al document es veu que, tot i renombrar-lo a .txt, torna a sortir: “Necesita permisos para realizar esta acción”.](Img/Imatge30.png)
 
-**Resum de Configuració: Taula amb els noms de carpeta, camins UNC, grups amb accés i mètode de creació usat.**
+### Resum de Configuració: Taula amb els noms de carpeta, camins UNC, grups amb accés i mètode de creació usat.
 
 | **Carpeta**   | **Camí UNC**           | **Grup(s) amb Accés** | **Permisos**                                   | **Mètode de Creació** |
 |-----------|---------------------|--------------------|---------------------------------------------|--------------------|
