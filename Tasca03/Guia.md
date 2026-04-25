@@ -129,7 +129,7 @@ Configurem:
 - Action (Acció): Update (Actualitzar)
 - Share name (Nom del recurs compartit): direccio
 - Folder path (Ruta de la carpeta): \\\DC17\Direccio
-- Access‑Based Enumeration (Enumeració Basada en Accés): marquem Enabled (Activat)
+- Access‑Based Enumeration (Enumeració Basada en Accés): marquem Enable (Activat)
 
 Això reforça la configuració del recurs compartit.
 
@@ -159,7 +159,7 @@ I podem veure que l'usuari del grup Direccio pot obrir-la.
 
 **El client es queixa que els usuaris guarden fotos personals i omplen el disc. Heu d'actuar:**
 
-### Quotes NTFS (Control per Volum):**
+### Quotes NTFS (Control per Volum):
 
 - **A la unitat de dades, activeu les quotes NTFS des de les propietats del volum.**
 
@@ -200,7 +200,7 @@ A la carpeta Operacions, creem un filtre que impedeixi guardar arxius executable
 
 **Connecteu-vos des d'un client Windows 10/11 i comproveu:**
 
-**- Verifiqueu l’accés i la visibilitat dels recursos per un usuari de cada grup.**
+- **Verifiqueu l’accés i la visibilitat dels recursos per un usuari de cada grup.**
 
 Usuari Anthony Milla, pot veure la carpeta Direcció:
 
