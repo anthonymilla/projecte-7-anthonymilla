@@ -129,7 +129,7 @@ Configurem:
 - Action (Acció): Update (Actualitzar)
 - Share name (Nom del recurs compartit): direccio
 - Folder path (Ruta de la carpeta): \\\DC17\Direccio
-- Access‑Based Enumeration (Enumeració Basada en Accés): marquem Enable (Activat)
+- Access-Based Enumeration (Enumeració Basada en Accés), marquem: Enable (Activa)
 
 Això reforça la configuració del recurs compartit.
 
@@ -137,7 +137,7 @@ Això reforça la configuració del recurs compartit.
 -Action (Acció): Update (Actualitzar)
 -Share name (Nom del recurs compartit): direccio
 -Folder path (Ruta de la carpeta): \\\DC17\Direccio
--Access‑Based Enumeration (Enumeració Basada en Accés): marquem Enabled (Activat)
+-Access-Based Enumeration (Enumeració Basada en Accés), marquem: Enable (Activa)
 Això reforça la configuració del recurs compartit.](Img/Imatge15.png)
 
 Intentem accedir a \\\DC17\Direccio amb l'usuari Jhon Justiniano i no deixa accedir ja que no té permisos (no és del grup Direccio).
