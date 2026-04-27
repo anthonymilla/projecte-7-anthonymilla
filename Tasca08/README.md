@@ -39,5 +39,5 @@ Materials i links de suport
 - https://github.com/SMX2n/Projecte7-GitHubPages
 
 
-[Anar a la Guia](../Tasca08/Guia.md)   
+[Anar a la Solució](../Tasca08/Solucio.md)   
 [Anar a la pàgina inicial](../README.md)
