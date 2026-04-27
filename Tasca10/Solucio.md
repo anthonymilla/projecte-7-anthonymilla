@@ -58,11 +58,11 @@ Total hosting + domini: **6 €/mes**
 
 Inclou:
 
-· Còpies de seguretat  
-· Actualitzacions de seguretat  
-· Revisió web  
-· Suport d'incidències SaaS  
-· Temps de resposta 24 h  
+- Còpies de seguretat  
+- Actualitzacions de seguretat  
+- Revisió web  
+- Suport d'incidències SaaS  
+- Temps de resposta 24 h  
 
 Quota recomanada: **40 €/mes**
 
@@ -83,23 +83,26 @@ S'ha triat **30 €/h** doncs per ser competitius i realistes per una microempre
 
 S'ha escollit **Microsoft 365 Business Basic** perquè:
 
-· Inclou correu professional  
-· Inclou Teams i OneDrive  
-· És l'opció més economica i suficient per PIMEs  
-· Escalable si FoodLogistic creix
+- Inclou correu professional  
+- Inclou Teams i OneDrive  
+- És l'opció més economica i suficient per PIMEs  
+- Escalable si FoodLogistic creix
 
 ### Hosting:
 
 S'ha triat hosting basic perquè:
 
-· La web és una landing page simple  
-· No necessita servidors potents  
-· Cost molt reduït i fiable
+- La web és una landing page simple  
+- No necessita servidors potents  
+- Cost molt reduït i fiable
 
 ---
 
 ## EN DEFINITIVA:
 
-· Cost inicial: **1.175 €**  
-· Cost mensual: **106 €**  
-· Document complet, clar i professional.
+- Cost inicial: **1.175 €**  
+- Cost mensual: **106 €**  
+- Document complet, clar i professional.
+
+[Anar a l'enunciat](../Tasca02/README.md)      
+[Anar a la pàgina inicial](../README.md)
