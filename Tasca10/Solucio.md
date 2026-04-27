@@ -1,4 +1,4 @@
-# MEMORIA ECONOMICA - FoodLogistic S.A.
+# MEMORIA ECONÒMICA - FoodLogistic S.A.
 
 ## 1) PRESSUPOST D'IMPLANTACIÓ - PAGAMENT ÚNIC
 
@@ -27,7 +27,7 @@ Total llicències inicials: **25 €**
 Hores totals del projecte (T01-T08): **31 hores**  
 Preu/hora de mercat (tècnic IT júnior): **30 €/h**
 
-Càlcul:  
+**Càlcul:**  
 31 hores × 30 €/h = **930 €**
 
 ### TOTAL IMPLANTACIÓ - PAGAMENT ÚNIC:
@@ -42,7 +42,8 @@ Càlcul:
 
 Suposem: **10 usuaris**.
 
-Opció triada: **Microsoft 365 Business Basic → 6 €/usuari/mes**  
+Opció triada: **Microsoft 365 Business Basic -> 6 €/usuari/mes**  
+
 Seria: 10 × 6 € = **60 €/mes**
 
 ### 2.2 Hosting + Domini:
@@ -76,12 +77,12 @@ Quota recomanada: **40 €/mes**
 
 ### Preu/hora:
 
-Els preus de mercat per a tècnics informatics júnior - mitjà a Catalunya oscil·len entre **25 i 45 €/h**.  
-S'ha triat **30 €/h** doncs per ser competitius i realistes per una microempresa del Maresme.
+- Els preus de mercat per a tècnics informatics júnior - mitjà a Catalunya oscil·len entre 25 i 45 €/h.  
+- S'ha triat 30 €/h doncs per ser competitius i realistes per una microempresa del Maresme.
 
 ### Pla SaaS triat:
 
-S'ha escollit **Microsoft 365 Business Basic** perquè:
+S'ha escollit Microsoft 365 Business Basic perquè:
 
 - Inclou correu professional  
 - Inclou Teams i OneDrive  
@@ -100,9 +101,8 @@ S'ha triat hosting basic perquè:
 
 ## EN DEFINITIVA:
 
-- Cost inicial: **1.175 €**  
-- Cost mensual: **106 €**  
-- Document complet, clar i professional.
+- Cost total implantació - pagament únic: 1.175 €
+- Cost total costos recurrents - mensuals: 106 €
 
 [Anar a l'enunciat](../Tasca02/README.md)      
 [Anar a la pàgina inicial](../README.md)
