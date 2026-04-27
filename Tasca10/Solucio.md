@@ -28,11 +28,11 @@ Hores totals del projecte (T01-T08): **31 hores**
 Preu/hora de mercat (tècnic IT júnior): **30 €/h**
 
 **Càlcul:**  
-31 hores × 30 €/h = **930 €**
+31 hores × 30 €/h = **930 € + IVA = 1.125,3**
 
 ### TOTAL IMPLANTACIÓ - PAGAMENT ÚNIC:
 
-220 € + 25 € + 930 € = **1.175 €**
+220 € + 25 € + 1.125,3 € = **1.370,3 €**
 
 ---
 
@@ -101,8 +101,8 @@ S'ha triat hosting basic perquè:
 
 ## EN DEFINITIVA:
 
-- Cost total implantació - pagament únic: 1.175 €
-- Cost total costos recurrents - mensuals: 106 €
+- **Cost total implantació - pagament únic: 1.370,3 €**
+- **Cost total costos recurrents - mensuals: 106 €**
 
 [Anar a l'enunciat](../Tasca10/README.md)      
 [Anar a la pàgina inicial](../README.md)
