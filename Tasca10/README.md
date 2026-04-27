@@ -34,4 +34,5 @@ El lliurament s'ha de fer a través del repositori del projecte i constarà de:
 
 **Justificació de la Proposta:** Un breu text on expliqueu d'on heu tret els preus d'hora de mercat emprats i per què heu triat aquest model de preus (per exemple, per què s'ha escollit un pla concret de subscripció pel SaaS).
 
+[Anar a la Solució](../Tasca10/Solucio.md)  
 [Anar a la pàgina inicial](../README.md)
