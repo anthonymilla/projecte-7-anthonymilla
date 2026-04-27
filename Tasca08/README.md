@@ -38,4 +38,6 @@ Materials i links de suport
 - [Què és la comunicació assertiva](https://linkiafp.es/ca/blog/consells-aconseguir-comunicacio-assertiva-empresa/)  
 - https://github.com/SMX2n/Projecte7-GitHubPages
 
+
+[Anar a la Guia](../Tasca08/Guia.md)   
 [Anar a la pàgina inicial](../README.md)
