@@ -104,5 +104,4 @@ S'ha triat hosting basic perquè:
 - Cost total implantació - pagament únic: 1.175 €
 - Cost total costos recurrents - mensuals: 106 €
 
-[Anar a l'enunciat](../Tasca02/README.md)      
-[Anar a la pàgina inicial](../README.md)
+
