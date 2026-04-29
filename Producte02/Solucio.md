@@ -6,3 +6,5 @@
 
 [Url de la web](https://classessmx2n.github.io/web-projecte7-anthonymilla/)
 
+[Anar a l'enunciat](../Producte02/README.md)      
+[Anar a la pàgina inicial](../README.md)
