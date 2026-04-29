@@ -46,13 +46,13 @@ millors elements de les webs per crear una versió final més completa.
 
 ### Decisió final:
 
-**Base i estructura principal:** Web d'Anthony  
+**Base i estructura principal:** Web de l'Anthony  
 **Elements visuals i estil gràfic:** Web del Nil  
 **Formulari final:** Millorat combinant idees de totes dues  
 **Imatges i seccions destacades:** Selecció de les millors de cada web
 
 ### Justificació:
-- La web d'Anthony aporta professionalitat, ordre i coherencia, essencial per a una
+- La web de l'Anthony aporta professionalitat, ordre i coherencia, essencial per a una
 empresa logística.
 - La web del Nil aporta impacte visual i dinamisme, fent-la més atractiva per al client.
 - La combinació permet obtenir una web equilibrada, moderna i funcional, que
