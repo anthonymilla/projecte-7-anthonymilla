@@ -179,9 +179,9 @@ BaseDades --> Backups : NAS (30 dies)
 | 3.4 Presència web |
 |----------------------------------------|
 
-**Diagrama Wireframe Web (PlantUML);**
+**Diagrama Wireframe de la Web (PlantUML);**
 
-![Diagrama Wireframe Web (PlantUML);](Img/Imatge03.jpg)
+![Diagrama Wireframe de la Web (PlantUML);](Img/Imatge03.jpg)
 
 **Codi:**
 
