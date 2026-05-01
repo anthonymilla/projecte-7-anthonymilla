@@ -3,7 +3,8 @@
 **Autors:** Anthony Milla i Nil Lozano     
 **Client:** FoodLogístic S.A.
 
-## 1. Introducció
+| 1. Introducció |
+|----------------------------------------|
 
 **Context del projecte:**
 
@@ -31,7 +32,8 @@ El seu entorn operatiu requereix continuïtat de servei, seguretat de dades, coo
 
 La proposta integra infraestructura, serveis cloud, seguretat i web corporativa per garantir eficiència, continuïtat i creixement futur.
 
-## 2. Anàlisi de necessitats
+| 2. Anàlisi de necessitats |
+|----------------------------------------|
 
 **Problemes detectats i solucions:**
 
@@ -56,3 +58,7 @@ La proposta integra infraestructura, serveis cloud, seguretat i web corporativa 
 - Integració cloud
 - Compliment RGPD
 
+
+
+[Anar a l'enunciat](../Producte01/README.md)      
+[Anar a la pàgina inicial](../README.md)
