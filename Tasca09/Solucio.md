@@ -50,10 +50,13 @@ T08 (Tria de la web definitiva) ja que és triar la web definitiva, decidir i ve
 
 # Fase 2: Estimació d’esforç amb criteri (ús d’IA guiat)
 
-Heu d’estimar la durada de cada tasca en hores, però no de forma arbitrària.                 
-Per cada tasca, haureu d’analitzar com a mínim aquests factors:                           
-Factors obligatoris d’estimació                                  
-Per cada tasca, tingueu en compte:                                      
+Heu d’estimar la durada de cada tasca en hores, però no de forma arbitrària.
+
+Per cada tasca, haureu d’analitzar com a mínim aquests factors:
+
+Factors obligatoris d’estimació
+
+Per cada tasca, tingueu en compte:
 
 - Temps de comprensió (lectura, anàlisi)
 - Temps de recerca (si cal)
