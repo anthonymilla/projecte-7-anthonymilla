@@ -66,9 +66,7 @@ Per cada tasca, tingueu en compte:
 
 # Ús d’IA (obligatori i guiat)
 
-Heu d’utilitzar IA com a assistent, però amb criteri.                                   
-Perfecte, ho ajusto 👍                                         
- Refaig la **Fase 2 (T01–T08)** amb **menos hores per tasca**, assumint **pocs errors**, bon domini de les eines i un ritme de treball més àgil (nivell SMX correcte).                     
+Heu d’utilitzar IA com a assistent, però amb criteri.
 
 #### **T01 – Coneixent la competència i el sector**
 
