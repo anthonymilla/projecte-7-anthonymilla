@@ -350,16 +350,26 @@ Utilitzant **PlantUML (UMLTree)**, el diagrama ha de mostrar:
 Script:
 
 ```
-@startgantt                                        
-Project starts the 2026-04-10                                           
-[T01 - Competencia y sector (los dosh) ] lasts 2 days                                               
-[T02 - Propuesta web corporativa (principalment l'Anthony)] lasts 3 days                                            
-[T03 - Servidor de ficheros (principalment en Nil)] starts at 2026-04-14 and lasts 3 days                                         
-[T04 - Servidor de impresión (Nil)] starts at 2026-04-19 and lasts 1 day                                          
-[T05 - Vídeo LOPD (los dosh)] starts at 2026-04-19 and lasts 2 days                                         
-[T06 - Web legal RGPD (principalment l'Anthony)] starts at 2026-04-20 and lasts 2 days                                       
-[T07 - Correo en la nube (los dosh)] starts at 2026-04-25 and lasts 2 days                                       
-[T08 - Elección web definitiva (los dosh)] starts at 2026-04-27 and lasts 1 day                                        
+@startgantt
+                                   
+Project starts the 2026-04-10
+                                       
+[T01 - Competencia y sector (los dosh) ] lasts 2 days
+                                
+[T02 - Propuesta web corporativa (principalment l'Anthony)] lasts 3 days
+                                        
+[T03 - Servidor de ficheros (principalment en Nil)] starts at 2026-04-14 and lasts 3 days
+                                        
+[T04 - Servidor de impresión (Nil)] starts at 2026-04-19 and lasts 1 day
+                                 
+[T05 - Vídeo LOPD (los dosh)] starts at 2026-04-19 and lasts 2 days
+                                 
+[T06 - Web legal RGPD (principalment l'Anthony)] starts at 2026-04-20 and lasts 2 days
+               
+[T07 - Correo en la nube (los dosh)] starts at 2026-04-25 and lasts 2 days
+
+[T08 - Elección web definitiva (los dosh)] starts at 2026-04-27 and lasts 1 day
+                                    
 @endgantt
 ```
 
