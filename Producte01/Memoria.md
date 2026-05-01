@@ -67,6 +67,8 @@ Infraestructura basada en servidors virtualitzats, amb redundància, còpies de 
 
 **Diagrama d’arquitectura (PlantUML);**
 
+![Diagrama d’arquitectura (PlantUML);](Img/Imatge01.jpg)
+
 **Codi:**
 
 ```
@@ -95,8 +97,6 @@ rectangle "Xarxa Interna" {
 }
 @enduml
 ```
-
-![Diagrama d’arquitectura (PlantUML);](Img/Imatge01.jpg)
 
 **Components:**
 
@@ -156,6 +156,8 @@ Hem escollit Microsoft 365 per integració empresarial, seguretat i eines comple
 
 **Esquema de seguretat (PlantUML);**
 
+![Esquema de seguretat (PlantUML);](Img/Imatge02.jpg)
+
 **Codi:**
 
 ```
@@ -174,12 +176,12 @@ BaseDades --> Backups : NAS (30 dies)
 @enduml
 ```
 
-![Esquema de seguretat (PlantUML);](Img/Imatge02.jpg)
-
 | 3.4 Presència web |
 |----------------------------------------|
 
 **Diagrama Wireframe Web (PlantUML);**
+
+![Diagrama Wireframe Web (PlantUML);](Img/Imatge03.jpg)
 
 **Codi:**
 
@@ -206,8 +208,6 @@ rectangle "Footer"
 
 @enduml
 ```
-
-![Diagrama Wireframe Web (PlantUML);](Img/Imatge03.jpg)
 
 **Descripció funcional:**
 
@@ -245,6 +245,8 @@ La solució integra infraestructura, serveis cloud, web pública i sistemes de s
 
 **Diagrama global (Mermaid);**
 
+![Diagrama global (Mermaid);](Img/Imatge04.jpg)
+
 **Codi:**
 
 ```
@@ -277,8 +279,6 @@ rectangle "Infraestructura Local" {
 
 @enduml
 ```
-
-![Diagrama global (Mermaid);](Img/Imatge04.jpg)
 
 **Fluxos principals:**
 
@@ -321,6 +321,8 @@ rectangle "Infraestructura Local" {
 
 **Diagrama de Gantt (PlantUML);**
 
+![Diagrama de Gantt (PlantUML);](Img/Imatge05.jpg)
+
 **Codi:**
 
 ```
@@ -341,9 +343,9 @@ Project starts the 2026-04-01
 @endgantt
 ```
 
-![Diagrama de Gantt (PlantUML);](Img/Imatge05.jpg)
-
 **Visió temporal del projecte de les tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;**
+
+![Visió temporal del projecte de les tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;](Img/Imatge06.jpg)
 
 **Codi:**
 
@@ -370,8 +372,6 @@ Project starts the 2026-04-10
                                     
 @endgantt
 ```
-
-![Visió temporal del projecte de les tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;](Img/Imatge06.jpg)
 
 ## 7. Conclusions
 
