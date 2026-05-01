@@ -325,7 +325,7 @@ rectangle "Infraestructura Local" {
 
 ```
 @startgantt
-Project starts the 2025-04-01
+Project starts the 2026-04-01
 
 [Anàlisi] lasts 5 days
 [Disseny] lasts 7 days
