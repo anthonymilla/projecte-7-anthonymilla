@@ -347,7 +347,9 @@ Utilitzant **PlantUML (UMLTree)**, el diagrama ha de mostrar:
 
 ![](img/1.png)
 
-Script:                                       
+Script:
+
+```
 @startgantt                                        
 Project starts the 2026-04-10                                           
 [T01 - Competencia y sector (los dosh) ] lasts 2 days                                               
@@ -358,7 +360,8 @@ Project starts the 2026-04-10
 [T06 - Web legal RGPD (principalment l'Anthony)] starts at 2026-04-20 and lasts 2 days                                       
 [T07 - Correo en la nube (los dosh)] starts at 2026-04-25 and lasts 2 days                                       
 [T08 - Elección web definitiva (los dosh)] starts at 2026-04-27 and lasts 1 day                                        
-@endgantt                             
+@endgantt
+```
 
 ### **Fase 5: Pla de contingència (pensament professional)**
 
