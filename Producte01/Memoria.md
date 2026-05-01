@@ -98,6 +98,30 @@ rectangle "Xarxa Interna" {
 
 ![Diagrama d’arquitectura (PlantUML);](Img/Imatge01.jpg)
 
+**Components:**
+
+| Component          | Funció          | Quantitat | Justificació             |
+|--------------------|-----------------|-----------|---------------------------|
+| Firewall           | Protecció       | 1         | Seguretat                |
+| NAS                | Backups         | 1         | Recuperació de desastres |
+| Servidors virtuals | Serveis interns | 2         | Escalabilitat            |
+
+| 3.2 Serveis al núvol |
+|----------------------------------------|
+
+**Comparativa:**
+
+| Característica   | Google Workspace | Microsoft 365 |
+|------------------|------------------|----------------|
+| Correu           | Gmail            | Outlook        |
+| Emmagatzematge   | Drive            | OneDrive       |
+| Col·laboració    | Docs/Sheets      | Office Online  |
+| Preu             | €                | €€             |
+
+**Justificació:**
+
+Hem escollit Microsoft 365 per integració empresarial, seguretat i eines completes d’ofimàtica.
+
 
 
 [Anar a l'enunciat](../Producte01/README.md)      
