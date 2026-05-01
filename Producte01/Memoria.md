@@ -3,8 +3,7 @@
 **Autors:** Anthony Milla i Nil Lozano     
 **Client:** FoodLogístic S.A.
 
-| 1. Introducció |
-|----------------------------------------|
+## 1. Introducció
 
 **Context del projecte:**
 
@@ -32,8 +31,7 @@ El seu entorn operatiu requereix continuïtat de servei, seguretat de dades, coo
 
 La proposta integra infraestructura, serveis cloud, seguretat i web corporativa per garantir eficiència, continuïtat i creixement futur.
 
-| 2. Anàlisi de necessitats |
-|----------------------------------------|
+## 2. Anàlisi de necessitats
 
 **Problemes detectats i solucions:**
 
@@ -57,6 +55,48 @@ La proposta integra infraestructura, serveis cloud, seguretat i web corporativa 
 - Redundància
 - Integració cloud
 - Compliment RGPD
+
+## 3. Proposta de solució
+
+| 3.1 Infraestructura i alta disponibilitat |
+|----------------------------------------|
+
+**Descripció:**
+
+Infraestructura basada en servidors virtualitzats, amb redundància, còpies de seguretat i firewall perimetral.
+
+**Diagrama d’arquitectura (PlantUML);**
+
+**Codi:**
+
+```
+@startuml
+skinparam rectangleStyle rounded
+skinparam shadowing false
+
+actor Usuari as U
+
+U --> Firewall
+
+rectangle "Xarxa Interna" {
+    Firewall --> Switch
+    Switch --> Hypervisor1
+    Switch --> Hypervisor2
+
+    rectangle "Hypervisor 1" {
+        Hypervisor1 --> VM1 : Servidor Web
+        Hypervisor1 --> VM2 : Servidor Aplicacions
+    }
+
+    rectangle "Hypervisor 2" {
+        Hypervisor2 --> VM3 : Servidor Backups
+        VM3 --> NAS : NAS Backups
+    }
+}
+@enduml
+```
+
+![Diagrama d’arquitectura (PlantUML);](Img/Imatge01.jpg)
 
 
 
