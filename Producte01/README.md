@@ -93,7 +93,7 @@ Es valorarà:
 
 ## 3. Proposta de solució
 
-3.1 Infraestructura i alta disponibilitat
+### 3.1 Infraestructura i alta disponibilitat
 
 Format obligatori:
 
