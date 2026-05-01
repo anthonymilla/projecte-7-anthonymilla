@@ -122,6 +122,105 @@ rectangle "Xarxa Interna" {
 
 Hem escollit Microsoft 365 per integració empresarial, seguretat i eines completes d’ofimàtica.
 
+| 3.3 Seguretat i LOPD |
+|----------------------------------------|
+
+**Mesures de seguretat:**
+
+- Autenticació multifactor (MFA) per a tots els usuaris.
+- Xifratge de dades en repòs i en trànsit (TLS 1.3).
+- Polítiques de contrasenyes robustes i renovació periòdica.
+- Control d’accessos basat en rols (RBAC).
+- Còpies de seguretat automàtiques al NAS amb retenció de 30 dies.
+- Tallafocs perimetral amb filtres i monitoratge continu.
+- Actualitzacions i pegats de seguretat programats.
+
+**Compliment LOPD / RGPD - Relació amb normativa:**
+
+- Registre d’activitats de tractament.
+- Consentiment explícit en formularis web.
+- Política de privacitat i cookies visible i accessible.
+- Dades personals xifrades i amb accés restringit.
+- Procediment de resposta davant incidents.
+- Mesures tècniques i organitzatives documentades.
+
+**Taula resum:**
+
+| Àrea          | Mesura                        | Compliment |
+|---------------|--------------------------------|------------|
+| Accés         | MFA + RBAC                     | Sí.        |
+| Dades         | Xifratge + control d'accés     | Sí.        |
+| Backups       | NAS + retenció 30 dies         | Sí.        |
+| Web           | Cookies + privacitat + consentiment | Sí.   |
+| Infraestructura | Firewall + monitoratge        | Sí.        |
+
+**Esquema de seguretat (PlantUML);**
+
+**Codi:**
+
+@startuml
+skinparam rectangleStyle rounded
+skinparam shadowing false
+
+actor Usuari
+
+Usuari --> MFA : Autenticació
+MFA --> CloudApps : Aplicacions Cloud
+CloudApps --> Xifratge : Xifratge TLS 1.3
+Xifratge --> BaseDades : Dades Personals
+BaseDades --> Backups : NAS (30 dies)
+
+@enduml
+
+![Esquema de seguretat (PlantUML);](Img/Imatge02.jpg)
+
+| 3.4 Presència web |
+|----------------------------------------|
+
+**Diagrama Wireframe Web (PlantUML);**
+
+**Codi:**
+
+@startuml
+skinparam rectangleStyle rounded
+skinparam shadowing false
+
+rectangle "Header" {
+    rectangle "Logo"
+    rectangle "Menú" {
+        rectangle "Home"
+        rectangle "Serveis"
+        rectangle "Qui som"
+        rectangle "Contacte"
+    }
+}
+
+rectangle "Cos de la pàgina" {
+    rectangle "Contingut principal"
+}
+
+rectangle "Footer"
+
+@enduml
+
+![Diagrama Wireframe Web (PlantUML);](Img/Imatge03.jpg)
+
+**Descripció funcional:**
+
+- Home corporativa
+- Serveis
+- Qui som
+- Contacte amb formulari
+- Polítiques legals
+
+**Requisits legals:**
+
+- Avís legal
+- Política de privacitat
+- Política de cookies
+- Banner de consentiment
+- Check RGPD al formulari
+
 
 
 [Anar a l'enunciat](../Producte01/README.md)      
