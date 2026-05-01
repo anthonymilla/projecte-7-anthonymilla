@@ -343,7 +343,7 @@ Project starts the 2026-04-01
 
 ![Diagrama de Gantt (PlantUML);](Img/Imatge05.jpg)
 
-**Visió temporal de tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;**
+**Visió temporal del projecte de les tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;**
 
 **Codi:**
 
@@ -371,7 +371,7 @@ Project starts the 2026-04-10
 @endgantt
 ```
 
-![Visió temporal de tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;](Img/Imatge06.jpg)
+![Visió temporal del projecte de les tasques corresponents que hem fet per això durant el projecte (juntament amb les fases) en 3 setmanes;](Img/Imatge06.jpg)
 
 ## 7. Conclusions
 
