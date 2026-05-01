@@ -223,4 +223,5 @@ Es valorarà:
 - Capacitat de síntesi  
 - Orientació a client
 
+[Anar a la Guia](../Tasca03/Guia.md)   
 [Anar a la pàgina inicial](../README.md)
