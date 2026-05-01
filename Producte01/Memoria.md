@@ -221,6 +221,77 @@ rectangle "Footer"
 - Banner de consentiment
 - Check RGPD al formulari
 
+## 4. Arquitectura i disseny tècnic
+
+**Relació entre sistemes:**
+
+**Els sistemes del projecte interactuen de manera coordinada;**
+
+- **Infraestructura local ->** allotja servidors virtuals, backups i serveis interns.
+- **Firewall ->** controla i filtra tot el trànsit entre la xarxa interna, la web i el núvol.
+- **Web corporativa ->** allotjada externament, connecta amb serveis interns només quan cal (formulari, consultes).
+- **Microsoft 365 ->** gestiona correu, documents i col·laboració; sincronitza amb usuaris interns.
+- **NAS ->** rep còpies de seguretat automàtiques dels servidors i dades crítiques.
+
+**En resum:** tots els sistemes treballen junts per garantir disponibilitat, seguretat i flux de dades estable entre infraestructura local, web i serveis cloud.
+
+**Funcionament global:**
+
+La solució integra infraestructura, serveis cloud, web pública i sistemes de seguretat en un ecosistema coherent i escalable.
+
+**Diagrama global (Mermaid);**
+
+**Codi:**
+
+@startuml
+
+skinparam rectangleStyle rounded
+
+skinparam shadowing false
+
+
+actor Usuari
+
+
+Usuari --> Web : Accés Web Corporativa
+
+
+rectangle "Infraestructura Web" {
+
+    Web --> Hosting
+
+    Hosting --> CDN
+
+}
+
+
+CDN --> Firewall
+
+
+rectangle "Serveis Cloud" {
+
+    Firewall --> M365 : Microsoft 365
+
+    M365 --> Correu
+
+    M365 --> OneDrive
+
+}
+
+
+rectangle "Infraestructura Local" {
+
+    Firewall --> Servidors
+
+    Servidors --> NAS : Backups
+
+}
+
+
+@enduml
+
+
+
 
 
 [Anar a l'enunciat](../Producte01/README.md)      
