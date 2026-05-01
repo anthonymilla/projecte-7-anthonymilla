@@ -158,6 +158,7 @@ Hem escollit Microsoft 365 per integració empresarial, seguretat i eines comple
 
 **Codi:**
 
+```
 @startuml
 skinparam rectangleStyle rounded
 skinparam shadowing false
@@ -171,6 +172,7 @@ Xifratge --> BaseDades : Dades Personals
 BaseDades --> Backups : NAS (30 dies)
 
 @enduml
+```
 
 ![Esquema de seguretat (PlantUML);](Img/Imatge02.jpg)
 
@@ -181,6 +183,7 @@ BaseDades --> Backups : NAS (30 dies)
 
 **Codi:**
 
+```
 @startuml
 skinparam rectangleStyle rounded
 skinparam shadowing false
@@ -202,6 +205,7 @@ rectangle "Cos de la pàgina" {
 rectangle "Footer"
 
 @enduml
+```
 
 ![Diagrama Wireframe Web (PlantUML);](Img/Imatge03.jpg)
 
@@ -243,56 +247,114 @@ La solució integra infraestructura, serveis cloud, web pública i sistemes de s
 
 **Codi:**
 
+```
 @startuml
-
 skinparam rectangleStyle rounded
-
 skinparam shadowing false
-
 
 actor Usuari
 
-
 Usuari --> Web : Accés Web Corporativa
 
-
 rectangle "Infraestructura Web" {
-
     Web --> Hosting
-
     Hosting --> CDN
-
 }
-
 
 CDN --> Firewall
 
-
 rectangle "Serveis Cloud" {
-
     Firewall --> M365 : Microsoft 365
-
     M365 --> Correu
-
     M365 --> OneDrive
-
 }
 
 
 rectangle "Infraestructura Local" {
-
     Firewall --> Servidors
-
     Servidors --> NAS : Backups
-
 }
 
-
 @enduml
+```
 
+![Diagrama global (Mermaid);](Img/Imatge04.jpg)
 
+**Fluxos principals:**
 
+- Flux d’autenticació
+- Flux de backup
+- Flux de publicació web
 
+## 5. Pressupost
+
+**Cost d’implantació:**
+
+| Element       | Cost unitari | Quantitat | Total  |
+|---------------|--------------|-----------|--------|
+| Servidor      | 850€         | 1         | 850€   |
+| Firewall      | 300€         | 1         | 300€   |
+| NAS           | 250€         | 1         | 250€   |
+| Configuració  | 25€/h        | 20h       | 500€   |
+| TOTAL         | -            | -         | 1.900€ |
+
+**Costos recurrents:**
+
+| Servei        | Cost mensual | Total anual |
+|---------------|--------------|-------------|
+| Microsoft 365 | 5€/usuari    | 60€         |
+| Hosting web   | 8€           | 96€         |
+| Domini        | 12€          | 12€         |
+| TOTAL         |              | 168€        |
+
+## 6. Planificació
+
+**Fases del projecte:**
+
+| Fase          | Durada | Descripció     |
+|---------------|--------|----------------|
+| Anàlisi       | 5 dies | Validació      |
+| Disseny       | 7 dies | Arquitectura   |
+| Implementació | 15 dies| Infraestructura|
+| Web           | 10 dies| Desenvolupament|
+| Validació     | 5 dies | Proves         |
+
+**Diagrama de Gantt (PlantUML);**
+
+**Codi:**
+
+```
+@startgantt
+Project starts the 2025-01-01
+
+[Anàlisi] lasts 5 days
+[Disseny] lasts 7 days
+[Implementació] lasts 15 days
+[Web] lasts 10 days
+[Validació] lasts 5 days
+
+[Anàlisi] -> [Disseny]
+[Disseny] -> [Implementació]
+[Implementació] -> [Web]
+[Web] -> [Validació]
+
+@endgantt
+```
+
+![Diagrama de Gantt (PlantUML);](Img/Imatge05.jpg)
+
+## 7. Conclusions
+
+**Valor de la proposta:**
+
+La proposta aporta una modernització integral, una infraestructura segura i escalable i una presència web professional que reforça l’eficiència i la imatge corporativa de FoodLogístic S.A. 
+
+**Beneficis per al client:**
+
+- Continuïtat del negoci
+- Millor comunicació interna
+- Imatge corporativa millorada
+- Compliment legal garantit
 
 [Anar a l'enunciat](../Producte01/README.md)      
 [Anar a la pàgina inicial](../README.md)
