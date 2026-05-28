@@ -8,7 +8,7 @@
 
 [Url de la web](https://anthonymilla.github.io/Web-corporativa-FoodLogistic/)
 
-## Informació de Statcounter
+## Informació de Statcounter:
 
 ![Informació de Statcounter](Img/Imatge01.png)
 
