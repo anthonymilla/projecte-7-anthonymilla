@@ -50,4 +50,5 @@ Per garantir que el treball no és 100% generat per IA, s'inclouen aquests requi
 
 - **Codi d'Ètica:** Una reflexió sobre com la IA pot ajudar a l'empresa sense vulnerar la Llei de Protecció de Dades (RGPD).
 
+[Anar a la Solució](../Tasca12/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
