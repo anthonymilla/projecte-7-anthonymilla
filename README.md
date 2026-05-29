@@ -18,7 +18,7 @@ La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i 
 
 Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 
-### Dades legals i corporatives de "FoodLogistic S.A."
+## Dades legals i corporatives de "FoodLogistic S.A."
 
 - **Raó social:** FoodLogistic S.A.
 - **NIF:** A08123456
@@ -72,20 +72,38 @@ projecte7/
 
 Bona sort! 🚀
 
-## Tasques
-- [Tasca0](/Tasca00)
-- [Tasca1](/Tasca01)
-- [Tasca2](/Tasca02)
-- [Tasca3](/Tasca03)
-- [Tasca4](/Tasca04)
-- [Tasca5](/Tasca05)
-- [Tasca6](/Tasca06)
-- [Tasca7](/Tasca07)
-- [Tasca8](/Tasca08)
-- [Tasca9](/Tasca09)
+## Tasques:
+
+- [Tasca00](/Tasca00)
+
+- [Tasca01](/Tasca01)
+
+- [Tasca02](/Tasca02)
+
+- [Tasca03](/Tasca03)
+
+- [Tasca04](/Tasca04)
+
+- [Tasca05](/Tasca05)
+
+- [Tasca06](/Tasca06)
+
+- [Tasca07](/Tasca07)
+
+- [Tasca08](/Tasca08)
+
+- [Tasca09](/Tasca09)
+
 - [Tasca10](/Tasca10)
+
 - [Tasca11](/Tasca11)
+
 - [Tasca12](/Tasca12)
-- [Producte1](/Producte01)
-- [Producte2](/Producte02)
-- [Producte3](/Producte03)
+
+## Productes:
+
+- [Producte01](/Producte01)
+
+- [Producte02](/Producte02)
+
+- [Producte03](/Producte03)
