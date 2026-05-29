@@ -24,4 +24,5 @@ Cada alumne haurà d’entregar **un informe tècnic en PDF** que inclogui:
 - comentaris tècnics
 - problemes trobats i solucions
 
+[Anar a la Solució](../Tasca11/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
