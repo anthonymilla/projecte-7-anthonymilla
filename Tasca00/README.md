@@ -8,4 +8,5 @@
 
 4. Clonar el repositori en **local**, completar les dades sol·licitades i pujar els canvis confirmats a GitHub.
 
+[Anar a la Solució](../Tasca00/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
