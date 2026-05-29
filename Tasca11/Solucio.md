@@ -1,4 +1,4 @@
-# T11: Preparem una intranet per a més endavant - Aplicacions web
+# T11: Preparem una intranet per a més endavant
 
 Quan anàvem fent i quan vam acabar la intranet els professors van passar a mirar-la personalment i la van corregir en persona.
 
