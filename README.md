@@ -74,36 +74,36 @@ Bona sort! 🚀
 
 ## Tasques:
 
-- [Tasca00](/Tasca00)
+- [Tasca00-Presentació del projecte i actualització del repositori](/Tasca00)
 
-- [Tasca01](/Tasca01)
+- [Tasca01-Coneixent la competència i el sector](/Tasca01)
 
-- [Tasca02](/Tasca02)
+- [Tasca02-Creant la proposta de pàgina corporativa](/Tasca02)
 
-- [Tasca03](/Tasca03)
+- [Tasca03-Servidor de fitxers](/Tasca03)
 
-- [Tasca04](/Tasca04)
+- [Tasca04-Servidor d’impressió](/Tasca04)
 
-- [Tasca05](/Tasca05)
+- [Tasca05-Vídeo formatiu LOPD empleats.](/Tasca05)
 
-- [Tasca06](/Tasca06)
+- [Tasca06-Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.](/Tasca06)
 
-- [Tasca07](/Tasca07)
+- [Tasca07-Migrant al cloud.](/Tasca07)
 
-- [Tasca08](/Tasca08)
+- [Tasca08-Tria de la web definitiva.](/Tasca08)
 
-- [Tasca09](/Tasca09)
+- [Tasca09-Estimació temporal de projecte (Diagrama de Gantt professional)](/Tasca09)
 
-- [Tasca10](/Tasca10)
+- [Tasca10-Pressupost del projecte.](/Tasca10)
 
-- [Tasca11](/Tasca11)
+- [Tasca11-Preparem una intranet per a més endavant](/Tasca11)
 
-- [Tasca12](/Tasca12)
+- [Tasca12-"TechLaunch Mataró: De la Idea a la Startup"](/Tasca12)
 
 ## Productes:
 
-- [Producte01](/Producte01)
+- [Producte01-Memòria tècnica de la proposta](/Producte01)
 
-- [Producte02](/Producte02)
+- [Producte02-Web corporativa](/Producte02)
 
-- [Producte03](/Producte03)
+- [Producte03-Repositori personal](/Producte03)
